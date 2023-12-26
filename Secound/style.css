@@ -14,12 +14,15 @@ main {
 }
 h1{
     color: rgb(255, 255, 255); background: rgba(52, 255, 110, 0.264);
+    text-align: center;
 }
 h2{
     color: white;
 }
 main p{
-    color: white
+    color: white;
+    column-count: 2;
+    
 }
 p{
     color: blue;
